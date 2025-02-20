@@ -1,6 +1,6 @@
-# notes
+# Well. Hmm.
 
-A new Flutter project.
+Nothing much really, just a few basic pages I tried making in flutter lol.
 
 ## Getting Started
 
